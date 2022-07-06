@@ -1,0 +1,22 @@
+﻿[
+  {
+    "name": "Bob",
+    "Progress": 50,
+    "id": "user",
+    "Rank": "Bronze"
+  },
+
+  {
+    "name": "Sarah",
+    "Progress": 30,
+    "id": "user",
+    "Rank": "Bronze"
+  },
+
+  {
+    "name": "Mark",
+    "Progress": 80,
+    "id": "administrator",
+    "Rank": "Silver"
+  }
+]

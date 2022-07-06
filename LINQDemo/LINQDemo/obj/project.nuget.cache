@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+qPdEI+L4r5oqn3eC2kTTw5Ihlz64g+M+AIoclgBMrdATFFT9JxpYibnsO5SoXBlUv1u82iLUy9yj9RBQRz0Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jinho\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\LINQDemo\\LINQDemo\\LINQDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jinho\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

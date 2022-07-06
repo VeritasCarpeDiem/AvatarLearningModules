@@ -1,0 +1,17 @@
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\bin\Debug\net6.0\LINQDemo.exe
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\bin\Debug\net6.0\LINQDemo.deps.json
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\bin\Debug\net6.0\LINQDemo.runtimeconfig.json
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\bin\Debug\net6.0\LINQDemo.dll
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\bin\Debug\net6.0\LINQDemo.pdb
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.csproj.AssemblyReference.cache
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.AssemblyInfo.cs
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.dll
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\refint\LINQDemo.dll
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.pdb
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.genruntimeconfig.cache
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\ref\LINQDemo.dll
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jinho\OneDrive\Documents\Visual Studio 2022\Projects\LINQDemo\LINQDemo\obj\Debug\net6.0\LINQDemo.csproj.CopyComplete
